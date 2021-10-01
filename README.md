@@ -1,1 +1,1 @@
-This is a sample using git operations.
+This is a sample code using git operations.
